@@ -1,3 +1,9 @@
+# RSLang. App for learning English. RS School JS / FE 2022 final project. Developed in team.
+<h3>App link https://rslang-dpakyj1a.netlify.app/ </h3>
+
+
+
+
 # LearnWords
 A backend part of [React RS.School task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/react/react-rslang.md)
 
